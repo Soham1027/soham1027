@@ -1,27 +1,33 @@
-Hi there, I'm Soham Ghayal! 👋
+# Hi there, I'm Soham Ghayal! 👋
 
-🚀 About Me
-I am a passionate Python/Django Developer with over 2 years of experience in building scalable backend systems, web applications, and real-time communication tools. Currently, I'm working as a Software Developer at Redspark Technologies, where I focus on delivering high-quality, client-centric software solutions.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Soham%20Ghayal&fontSize=70" />
+</div>
 
-🔭 I’m currently working on ERP modules and AI-based systems.
-🌱 I’m currently learning Advanced AI/ML and Cloud Deployment.
-💬 Ask me about Django, FastAPI, and Web Scraping.
-📫 How to reach me: 
-sohamghayal02@gmail.com
-⚡ Fun fact: I love exploring new technologies and solving complex debugging puzzles!
-💻 Tech Stack
+---
 
-📊 GitHub Stats
-Soham's GitHub StatsTop Langs
-💼 Professional Experience
-Role	Company	Period
-Software Developer	Redspark Technologies	Jun 2024 – Present
-Python Developer Trainee	Ocius Technologies	Oct 2023 – May 2024
-Python Developer Intern	OffTrackThinkers	Jan 2023 – Jul 2023
-🎓 Education
-Bachelor of Engineering in Computer Engineering Ahmedabad Institute of Technology (2019 – 2023) | CGPA: 7.66
-🔗 Connect With Me
-LinkedIn
-Gmail
+### 🚀 About Me
+I am a passionate **Python/Django Developer** with over **2 years of experience** in building scalable backend systems, web applications, and real-time communication tools. Currently, I'm working as a **Software Developer at Redspark Technologies**.
 
+- 🔭 I’ve worked on **Goalactico, Todo Management, and Money Management systems**.
+- 🌱 I’m currently learning **Advanced AI/ML**.
+- 💬 Ask me about **Django, FastAPI, and Web Scraping**.
+- 📫 Reach me at: [sohamghayal02@gmail.com](mailto:sohamghayal02@gmail.com)
 
+---
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham1027&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/soham-ghayal)
