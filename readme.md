@@ -1,9 +1,9 @@
 # Hi there, I'm Soham Ghayal! 👋
 
 <div align="center">
-  <img src="banner.jpg" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Profile Banner" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Soham+Ghayal!;Python/Django+Developer;AI+and+Scalable+Architectures;Contact+me+for+collaboration!" alt="Typing SVG" />
+  <img src="banner.jpg" style="width: 100%; max-height: 350px; object-fit: cover; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);" alt="Profile Banner" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&size=25&lines=Hi+there,+I'm+Soham+Ghayal!;Python/Django+Developer;AI+and+Scalable+Architectures;Contact+me+for+collaboration!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -29,13 +29,12 @@ I am a passionate **Python/Django Developer** with over **2 years of experience*
 
 ### 🐍 My Contributions
 <div align="center">
-  <!-- Note: If stats are not loading, the Vercel-hosted service may be experiencing downtime (503 error). -->
-  <img src="https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=radical" alt="Soham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Soham's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham1027&theme=radical" alt="GitHub Streak" />
   <br/>
-  <!-- Contribution Snake Animation (Requires 'output' branch or Action to generate) -->
-  <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake.svg" alt="Snake animation (Missing 'output' branch file)" />
+  <!-- Contribution Snake Animation (Automatically generated every 24h) -->
+  <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
