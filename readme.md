@@ -1,14 +1,15 @@
 # Hi there, I'm Soham Ghayal! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Soham%20Ghayal&fontSize=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Soham+Ghayal!;Python/Django+Developer;AI+and+Scalable+Architectures;Contact+me+for+collaboration!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <!-- IMPORTANT: Rename your photo to 'profile.jpg' and upload it to your 'soham1027' repository to show it here -->
-  <img src="profile.jpg" width="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <!-- IMPORTANT: To show your profile photo, rename it to 'profile.jpg' and upload it to this 'soham1027' repository root. -->
+  <img src="profile.jpg" width="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Soham Ghayal Profile Image (Missing 'profile.jpg')" />
   
   <p align="center">
+    <!-- Note: If the following trophy widget is broken, the service might be experiencing temporary downtime (503 error). -->
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham1027&theme=radical" alt="GitHub Trophies" /></a>
   </p>
 </div>
@@ -27,12 +28,13 @@ I am a passionate **Python/Django Developer** with over **2 years of experience*
 
 ### 🐍 My Contributions
 <div align="center">
+  <!-- Note: If stats are not loading, the Vercel-hosted service may be experiencing downtime (503 error). -->
   <img src="https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=radical" alt="Soham's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham1027&theme=radical" alt="GitHub Streak" />
   <br/>
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- Contribution Snake Animation (Requires 'output' branch or Action to generate) -->
+  <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake.svg" alt="Snake animation (Missing 'output' branch file)" />
 </div>
 
 ---
@@ -60,7 +62,7 @@ I am a passionate **Python/Django Developer** with over **2 years of experience*
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/soham-ghayal" target="_blank">
+  <a href="https://www.linkedin.com/in/soham-ghayal-805586158" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:sohamghayal02@gmail.com">
