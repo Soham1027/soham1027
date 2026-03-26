@@ -1,16 +1,17 @@
 # Hi there, I'm Soham Ghayal! 👋
 
 <div align="center">
+  <img src="banner.jpg" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Profile Banner" />
+  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Soham+Ghayal!;Python/Django+Developer;AI+and+Scalable+Architectures;Contact+me+for+collaboration!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <!-- IMPORTANT: To show your profile photo, rename it to 'profile.jpg' and upload it to this 'soham1027' repository root. -->
-  <img src="profile.jpg" width="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Soham Ghayal Profile Image (Missing 'profile.jpg')" />
+  <img src="profile.jpg" width="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Soham Ghayal Profile Image" />
   
   <p align="center">
-    <!-- Note: If the following trophy widget is broken, the service might be experiencing temporary downtime (503 error). -->
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham1027&theme=radical" alt="GitHub Trophies" /></a>
+    <!-- Using generated trophy image since external service was unavailable -->
+    <img src="trophies.png" alt="Soham's GitHub Trophies" width="400" />
   </p>
 </div>
 
