@@ -30,8 +30,8 @@ jobs:
       - name: Generate GitHub Stats & Streak SVGs
         run: |
           mkdir -p dist
-          curl -L "https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" -o dist/github-stats.svg
-          curl -L "https://github-readme-streak-stats.herokuapp.com/?user=soham1027&theme=tokyonight" -o dist/github-streak.svg
+          curl -L "https://github-readme-stats.vercel.app/api?username=Soham1027&show_icons=true&theme=tokyonight&count_private=true" -o dist/github-stats.svg
+          curl -L "https://github-readme-streak-stats.herokuapp.com/?user=Soham1027&theme=tokyonight" -o dist/github-streak.svg
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v5
