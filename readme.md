@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="profile.jpg" width="200" style="border-radius: 50%; border: 4px solid #0D1117; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" alt="Soham Ghayal Profile Image" />
+  <!-- <img src="profile.jpg" width="200" style="border-radius: 50%; border: 4px solid #0D1117; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" alt="Soham Ghayal Profile Image" /> -->
   
   <p align="center">
     <!-- Using generated trophy image since external service was unavailable -->
