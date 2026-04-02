@@ -17,8 +17,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Ensure Dist Directory
+        run: mkdir -p dist && sudo chown -R $USER:$USER dist
+
       - name: Generate Snake
         uses: Platane/snk@v3
+        continue-on-error: true
         with:
           github_user_name: Soham1027
           outputs: |
@@ -27,9 +31,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Fix Permissions
+        run: sudo chown -R $USER:$USER dist
+
       - name: Generate GitHub Stats & Streak SVGs
+        continue-on-error: true
         run: |
-          mkdir -p dist
           curl --silent --show-error --fail --retry 3 -L "https://github-readme-stats.vercel.app/api?username=Soham1027&show_icons=true&theme=tokyonight&count_private=true" -o dist/github-stats.svg
           curl --silent --show-error --fail --retry 3 -L "https://github-readme-streak-stats.herokuapp.com/?user=Soham1027&theme=tokyonight" -o dist/github-streak.svg
 
