@@ -30,7 +30,7 @@ I am a passionate **Python/Django Developer** with over **2 years of experience*
 ### 🐍 My Contributions
 
 <div align="center">
-  <img src="github-stats.svg" alt="Soham's GitHub Stats" width="48%" />
+  <!-- <img src="github-stats.svg" alt="Soham's GitHub Stats" width="48%" /> -->
   <img src="github-streak.svg" alt="GitHub Streak" width="48%" />
   <br/><br/>
   
