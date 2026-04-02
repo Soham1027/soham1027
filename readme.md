@@ -1,5 +1,3 @@
-# Hi there, I'm Soham Ghayal! 👋
-
 <div align="center">
   <img src="premium_banner.png" style="width: 100%; max-height: 180px; object-fit: cover; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.4);" alt="Profile Banner" />
   <br/><br/>
