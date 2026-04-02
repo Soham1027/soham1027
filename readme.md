@@ -30,8 +30,8 @@ I am a passionate **Python/Django Developer** with over **2 years of experience*
 ### 🐍 My Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Soham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham1027&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-stats.svg" alt="Soham's GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-streak.svg" alt="GitHub Streak" width="48%" />
   <br/><br/>
   
   <!-- Contribution Snake Animation -->
