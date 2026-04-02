@@ -1,13 +1,13 @@
 # Hi there, I'm Soham Ghayal! 👋
 
 <div align="center">
-  <img src="banner.jpg" style="width: 100%; max-height: 350px; object-fit: cover; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);" alt="Profile Banner" />
+  <img src="premium_banner.png" style="width: 100%; max-height: 180px; object-fit: cover; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.4);" alt="Profile Banner" />
   <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&size=25&lines=Hi+there,+I'm+Soham+Ghayal!;Python/Django+Developer;AI+and+Scalable+Architectures;Contact+me+for+collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Soham+Ghayal!;Python/Django+Developer;AI+and+Scalable+Architectures;Let's+build+something+epic!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="profile.jpg" width="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Soham Ghayal Profile Image" />
+  <img src="profile.jpg" width="200" style="border-radius: 50%; border: 4px solid #0D1117; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" alt="Soham Ghayal Profile Image" />
   
   <p align="center">
     <!-- Using generated trophy image since external service was unavailable -->
@@ -28,13 +28,18 @@ I am a passionate **Python/Django Developer** with over **2 years of experience*
 ---
 
 ### 🐍 My Contributions
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Soham's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham1027&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <!-- Contribution Snake Animation (Automatically generated every 24h) -->
-  <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soham1027&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Soham's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham1027&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <br/><br/>
+  
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/soham1027/soham1027/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; max-width: 880px; border-radius: 10px;" />
+  </picture>
 </div>
 
 ---
@@ -55,7 +60,7 @@ I am a passionate **Python/Django Developer** with over **2 years of experience*
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham1027&theme=radical&bg_color=0D1117&hide_border=true&color=58A6FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham1027&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
